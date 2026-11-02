@@ -1,5 +1,1 @@
-{"name":"liberusoftware/module-crm-unified-conversations","type":"liberu-module","autoload":{"psr-4":{"Liberu\\CRM\\UnifiedConversations\\":"src/"}},"extra":{"laravel":{"providers":["Liberu\\CRM\\UnifiedConversations\\UnifiedConversationsServiceProvider"]},"liberu":{"name":"crm-unified-conversations"}},
-    "require": {
-        "liberusoftware/module-organizations-teams": "^1.0"
-    }
-}
+{"name":"liberusoftware/module-crm-unified-conversations","type":"liberu-module","autoload":{"psr-4":{"Liberu\\CRM\\UnifiedConversations\\":"src/"}},"extra":{"laravel":{"providers":["Liberu\\CRM\\UnifiedConversations\\UnifiedConversationsServiceProvider"]},"liberu":{"name":"crm-unified-conversations"}},"description":"Team-scoped omnichannel conversations and timeline","license":"MIT"}
