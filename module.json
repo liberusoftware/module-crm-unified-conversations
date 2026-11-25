@@ -1,1 +1,17 @@
-{"name":"crm-unified-conversations","display_name":"CRM Unified Conversations","description":"Team-scoped omnichannel conversations and timeline","version":"1.0.0","category":"capability","provider":"Liberu\\CRM\\UnifiedConversations\\UnifiedConversationsServiceProvider","requires":{},"suggests":[],"default_enabled":true,"capabilities":["crm.unified-conversations"],"features":["Threads, participants, messages, assignments and read state"]}
+{
+  "name": "crm-unified-conversations",
+  "display_name": "CRM Unified Conversations",
+  "description": "Team-scoped omnichannel conversations and timeline",
+  "version": "1.0.1",
+  "category": "capability",
+  "provider": "Liberu\\CRM\\UnifiedConversations\\UnifiedConversationsServiceProvider",
+  "requires": {},
+  "suggests": [],
+  "default_enabled": true,
+  "capabilities": [
+    "crm.unified-conversations"
+  ],
+  "features": [
+    "Threads, participants, messages, assignments and read state"
+  ]
+}
